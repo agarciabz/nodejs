@@ -145,3 +145,5 @@ tools/*/*.i.tmp
 __pycache__
 .DS_Store
 *~
+/Code/Exam1/node_modules
+/Code/Validator/node_modules

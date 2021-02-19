@@ -1,0 +1,29 @@
+Operadores package.json
+ 
+Require y module exports de Node
+    - Imports con requires
+    - Export con module.exports
+ 
+NodeJS
+    - Trabajo con ficheros
+ 
+Funciones típicas de Express
+    - Configuraciones de middleware y controladores
+    - Manejo de request y responses
+    - Parámetros de requests, path y query
+    - Manejo de errores y propagación de estos
+    - Servicio de ficheros estáticos
+    - Concatenación de respuestas de múltiples servicios (Promise.all)
+    - Servicios de ficheros del sistema
+    - Gestionar servicio índice y EP base
+    - Propagación de peticiones
+    - Middlewares de seguridad
+ 
+Funciones típicas de JS, recordar sintaxis
+    - Promises and Promise.all
+    - Array iterators: map, forEach, reduce, indexOf, _filter, _find
+ 
+Entorno del examen
+    - APIs útiles
+    - Versiones y pruebas
+    - Conexión desde el portátil de Everis
