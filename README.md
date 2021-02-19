@@ -1,12 +1,3 @@
-<style>
-	.markdown-body > p {
-		font-size: 12px;
-	}
-	.codehilite > pre {
-		background-color: #F7F7FF !important;
-	}
-</style>
-
 # OpenJS Node.js Services Developer (JSNSD)
 
 ##### NodeJS
